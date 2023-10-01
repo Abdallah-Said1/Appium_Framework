@@ -1,4 +1,4 @@
-# Project name : geniral Store
+# Project name : general Store
 
 # Used Technologies
 - java OPP 
