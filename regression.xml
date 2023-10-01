@@ -3,7 +3,7 @@
 <suite name=" General-Store Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="testes.AllTestScenario"/>
+      <class name="testes.Login"/>
     </classes>
   </test>
 </suite>
