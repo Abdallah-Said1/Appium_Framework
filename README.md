@@ -2,7 +2,7 @@
 
 # Used Technologies
 - java OPP 
-- Selenuim 
+- Appium
 - Maven 
 - TestNG 
 - POM 
